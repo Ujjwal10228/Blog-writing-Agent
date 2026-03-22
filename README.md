@@ -212,4 +212,3 @@ Without `HF_TOKEN`, image placeholders are replaced with descriptive fallback bl
 | "State-of-the-art multimodal LLMs in 2026" | `hybrid` |
 | "Latest AI news this week" | `open_book` |
 | "How to build a RAG pipeline with LangChain" | `closed_book` or `hybrid` |
-# Blog-writing-Agent
