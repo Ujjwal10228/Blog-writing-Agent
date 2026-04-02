@@ -1,6 +1,19 @@
+
+
 # Blog Writing Agent
 
 An AI-powered blog writing system built on **LangGraph** that takes a topic and autonomously researches, plans, writes, and illustrates a full technical blog post. It features a **Streamlit** frontend for interactive use and a modular **LangGraph** backend pipeline.
+
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 2 28 08 PM" src="https://github.com/user-attachments/assets/f1d0ed30-a391-435a-8ecb-c9b2166237b9" />
+
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 2 42 01 PM" src="https://github.com/user-attachments/assets/191d1ac8-876c-44c9-ad2d-9efd834c3c17" />
+
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 2 41 36 PM" src="https://github.com/user-attachments/assets/1955def0-f4ed-494a-af71-eae52f8f9cce" />
+
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 2 41 29 PM" src="https://github.com/user-attachments/assets/12e31d33-b189-44d4-9ca5-72c0225da9c8" />
+
+
+
 
 ---
 
